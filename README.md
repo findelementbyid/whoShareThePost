@@ -4,7 +4,7 @@ show the person autoimatically who share the post
 
 ### Installing
 
-The library you have to insatll:
+The library you have to insatll:<>
 using pip
 
 ```
