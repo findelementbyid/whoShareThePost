@@ -1,2 +1,16 @@
 # whoShareThePost
-show the person autoimatically who share the post in Facebook
+
+show the person autoimatically who share the post
+
+### Installing
+
+The library you have to insatll:
+using pip
+
+```
+pip install selenium
+```
+
+## Authors
+
+* **findelementbyid** - *Initial work* - https://github.com/findelementbyid
